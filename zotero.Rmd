@@ -1,0 +1,9 @@
+---
+title: "title"
+data: '`r Sys.Date()`'
+author: "Damien Belvèze"
+output: 
+  word_document: 
+    reference_docx: D:\Home\dbelveze\Documents\unirennes.docx
+---
+
